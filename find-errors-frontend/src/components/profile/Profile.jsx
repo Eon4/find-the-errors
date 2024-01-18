@@ -1,5 +1,6 @@
 import style from "./Profile.module.scss";
 import exitIcon from "../../assets/exit.png";
+// import fetchUserData from "../../../../find-errors-backend/controllers/profile.controller";
 
 export const Profile = ({ user, logout }) => {
   return (
